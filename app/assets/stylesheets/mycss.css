@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+table{
+	padding: 10px;
+	margin: 0 auto;
+}
+td{
+	padding: 10px;
+}
+.field, .field_with_errors, #error_explanation{
+	padding: 5px;
+	margin: 0 auto;
+}
